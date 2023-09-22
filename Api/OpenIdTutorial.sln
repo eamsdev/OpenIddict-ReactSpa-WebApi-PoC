@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceServer", "ResourceServer\ResourceServer.csproj", "{6A671DA3-C215-4C6D-8A1E-1D632D4A3CDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Velusia.Server", "Velusia.Server\Velusia.Server.csproj", "{735B9FF5-DA5E-4C88-AA57-CCA202D65117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A671DA3-C215-4C6D-8A1E-1D632D4A3CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A671DA3-C215-4C6D-8A1E-1D632D4A3CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A671DA3-C215-4C6D-8A1E-1D632D4A3CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A671DA3-C215-4C6D-8A1E-1D632D4A3CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735B9FF5-DA5E-4C88-AA57-CCA202D65117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735B9FF5-DA5E-4C88-AA57-CCA202D65117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735B9FF5-DA5E-4C88-AA57-CCA202D65117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735B9FF5-DA5E-4C88-AA57-CCA202D65117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
